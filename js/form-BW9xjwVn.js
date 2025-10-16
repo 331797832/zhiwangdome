@@ -1,0 +1,1 @@
+import{aT as l,c as s,$ as u}from"./bootstrap-CQCA9rKs.js";l({config:{modelPropNameMap:{Upload:"fileList",CheckboxGroup:"model-value"}},defineRules:{required:(e,o,r)=>e==null||e.length===0?u("ui.formRules.required",[r.label]):!0,selectRequired:(e,o,r)=>e==null?u("ui.formRules.selectRequired",[r.label]):!0}});const t=s;export{t as u};
